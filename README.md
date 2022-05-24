@@ -1,2 +1,1 @@
-# contador-simples
-contador simples usando javascript, css e html
+# Contador simples usando Java script, CSS E HTML.
